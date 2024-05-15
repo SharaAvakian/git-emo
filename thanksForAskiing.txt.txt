@@ -3,6 +3,7 @@ and he told im alright
 (Yeah alright)
 i know that god is laughing 
 she gave us out wings 
+<<<<<<< HEAD
 but never taught us to fly
 
 i feel the strength of gods in my soul
@@ -16,3 +17,6 @@ text text txe rfiowehttgr
 gggggggggggggggggggggggg
 rrrrrrrrrrrrrrrrrrrrrrrrr
 eeeeeeeeeeeeeeeeeeeeeeeee
+=======
+but never taught us to fly
+>>>>>>> 6872f661414fe236c188f61f45d66e31d030e3e9

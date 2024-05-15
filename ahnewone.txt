@@ -1,3 +1,6 @@
 some shit here
+<<<<<<< HEAD
 
 god yet again another text
+=======
+>>>>>>> 6872f661414fe236c188f61f45d66e31d030e3e9
